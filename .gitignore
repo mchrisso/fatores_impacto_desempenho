@@ -1,0 +1,6 @@
+#ignore
+data/write_data/*.csv
+data/*.csv
+
+# allow
+data/write_data/.gitkeep
